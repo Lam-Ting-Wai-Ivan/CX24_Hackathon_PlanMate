@@ -1,1 +1,1 @@
-# CX24_Hackathon_PlanMate
+# CX24 Hackathon PlanMate
